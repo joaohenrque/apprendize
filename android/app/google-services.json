@@ -1,0 +1,54 @@
+{
+  "project_info": {
+    "project_number": "362666975012",
+    "project_id": "dados-apprendiz",
+    "storage_bucket": "dados-apprendiz.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:362666975012:android:7398a9c177483fbfd15db1",
+        "android_client_info": {
+          "package_name": "com.mycompany.senaiapprendiz"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "362666975012-7fnj38sgla86nkne0q4pkkn829oqh7c5.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.mycompany.senaiapprendiz",
+            "certificate_hash": "9bbb3186b2189ef16d8f272bdab59362c395cbb4"
+          }
+        },
+        {
+          "client_id": "362666975012-eplv71691c09tg36r3b4hdrqtmt8jaiu.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDTYaJLfD0XdLqYbcCzeqajGXza1IwRR-4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "362666975012-eplv71691c09tg36r3b4hdrqtmt8jaiu.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "362666975012-efqdv74pdg3qpr42u1pg10q0p9as1075.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.mycompany.senaiapprendiz"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
